@@ -33,7 +33,7 @@ This project focuses on developing a simulation-based framework to **optimize th
 - Power vs. weight tradeoffs
 - Tire slip vs. acceleration plots
 
-(You can include sample graphs or animations here)
+
 
 ---
 
